@@ -8,5 +8,6 @@
 </head>
 <body>
     <h2>Coba Git 2</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, alias! Similique mollitia, iste tempore dolorem, at obcaecati in asperiores odit ipsam quod sunt, autem neque laboriosam magni culpa fuga. Vitae.</p>
 </body>
 </html>
